@@ -1,5 +1,5 @@
 <h1> Welcome, To Devops Learning!! </h1>
-<h2> It's great to be learning! </h2>
+<h2> It's great to be learning, Good Learning! </h2>
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
